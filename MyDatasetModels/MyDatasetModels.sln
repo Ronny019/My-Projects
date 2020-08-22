@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CCPP", "CCPP\CCPP.pyproj", "{DBC4F815-174B-48EB-9C4B-1841BDE43119}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Wheat", "Wheat\Wheat.pyproj", "{6B22BDFA-47DE-4FB0-8E87-F6FC56F688CC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TwitterRestaurantAnalysis", "TwitterRestaurantAnalysis\TwitterRestaurantAnalysis.pyproj", "{8FC16612-8892-4607-83C0-48F4DCB31C54}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Covid19_India", "Covid19_India\Covid19_India.pyproj", "{79A13163-EE72-4480-B43B-8335393078CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC4F815-174B-48EB-9C4B-1841BDE43119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC4F815-174B-48EB-9C4B-1841BDE43119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B22BDFA-47DE-4FB0-8E87-F6FC56F688CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B22BDFA-47DE-4FB0-8E87-F6FC56F688CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC16612-8892-4607-83C0-48F4DCB31C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC16612-8892-4607-83C0-48F4DCB31C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A13163-EE72-4480-B43B-8335393078CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A13163-EE72-4480-B43B-8335393078CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E5D3367-3AF3-49C6-A7C5-C9B218930E19}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyDatasetModels/CCPP/training logs/ml train log.txt
+/MyDatasetModels/CCPP/training logs/ml log 2.txt
