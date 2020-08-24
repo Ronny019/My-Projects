@@ -1,6 +1,4 @@
 #### My-Projects ####
-Finsihed Projects
-
 ### The Projects in this Repo are: ###
 # MyDataSetModels- The datasets are available in the respective folders #
 
