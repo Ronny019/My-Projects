@@ -2,7 +2,6 @@
 Finsihed Projects
 
 ### The Projects in this Repo are:
-
 # MyDataSetModels- The datasets are available in the respective folders
 
 1. Regression Model on Combined Cycle Power Plant (CCPP) - To run this program call "python CCPP_SVM.py" . The other files are just for reference and contain my other approaches to solve this problem.
