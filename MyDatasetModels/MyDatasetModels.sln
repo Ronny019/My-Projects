@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TwitterRestaurantAnalysis",
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Covid19_India", "Covid19_India\Covid19_India.pyproj", "{79A13163-EE72-4480-B43B-8335393078CE}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIFAR10_GAN", "CIFAR10_GAN\CIFAR10_GAN.pyproj", "{42E5E15A-AD16-4782-A33F-3771180A078E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{8FC16612-8892-4607-83C0-48F4DCB31C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A13163-EE72-4480-B43B-8335393078CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{79A13163-EE72-4480-B43B-8335393078CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E5E15A-AD16-4782-A33F-3771180A078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E5E15A-AD16-4782-A33F-3771180A078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
