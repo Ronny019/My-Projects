@@ -1,6 +1,6 @@
 ### Classification of Wheat kernels ###
 
-In this project we attempt to classify the different types of wheat kernels based on it's geometric properties:
+In this project we attempt to classify the different types of wheat kernels based on it's geometric properties, </b>
 The properties are:
 1. area A,
 2. perimeter P,
