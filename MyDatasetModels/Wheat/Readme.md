@@ -1,7 +1,6 @@
 ### Classification of Wheat kernels ###
 
 In this project we attempt to classify the different types of wheat kernels based on it's geometric properties  
-
 The properties are:
 1. area A,
 2. perimeter P,
@@ -9,4 +8,6 @@ The properties are:
 4. length of kernel,
 5. width of kernel,
 6. asymmetry coefficient
-7. length of kernel groove.
+7. length of kernel groove.  
+
+
