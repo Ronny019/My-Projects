@@ -5,7 +5,7 @@ What are the top sources of stress or mental health issuesmentioned in the subre
 
 The usual strategy for NLP is to encode the words into numeric values. However, not every word is meaningful and therefore we have to eliminate those.
 Stopwords are a good start.
-In this assignment I have used the TF-IDF(Term Frequency Inverse Document Frequency) technique to
+I have used the TF-IDF(Term Frequency Inverse Document Frequency) technique to
 assign weights to the words. The way the TF-IDF technique works is it looks for the frequency of the
 token in the document and across documents. If a term is used in multiple documents that means the
 term is not very specific to a single topic. If a term is used often within a single document it means that
